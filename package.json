@@ -1,0 +1,22 @@
+{
+  "name": "projectone",
+  "version": "1.0.0",
+  "description": "First openshift app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neypellegrini/projectone.git"
+  },
+  "author": "Ney Pellegrini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neypellegrini/projectone/issues"
+  },
+  "homepage": "https://github.com/neypellegrini/projectone#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
