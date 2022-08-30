@@ -4,7 +4,7 @@
   "description": "First openshift app",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
